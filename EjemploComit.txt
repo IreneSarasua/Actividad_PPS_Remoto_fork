@@ -1,1 +1,2 @@
 Hola Soy un commit inicial
+Soy el commit desde linea de comandos 
